@@ -1,0 +1,156 @@
+.logo {
+  background: url('../img/logo.svg') no-repeat;
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+  display: block;
+}
+.padded {
+  padding: 60px 0px;
+}
+.gray {
+  background: #FAFAFA;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 26px;
+  color: #868686;
+  letter-spacing: -0.54px;
+}
+h2 {
+  text-align: center;
+  font-size: 36px;
+  color: #868686;
+  letter-spacing: -0.82px;
+}
+h4.small {
+  /* What else i do?: */
+  margin-top: 30px;
+  font-size: 24px;
+  color: #868686;
+  letter-spacing: -0.49px;
+}
+p {
+  font-size: 18px;
+  color: #828282;
+  letter-spacing: 0.29px;
+  line-height: 32px;
+}
+p:hover {
+  color: #5F5F5F;
+}
+p.hire {
+  font-size: 24px;
+  color: #545454;
+  letter-spacing: 0.38px;
+  line-height: 39px;
+}
+h5 {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 24px;
+  color: #868686;
+  letter-spacing: -0.49px;
+}
+a {
+  text-decoration: underline;
+}
+.blog {
+  /* Rectangle 2: */
+  background: #5B87D9;
+  color: white !important;
+}
+.blog h2 {
+  color: white !important;
+}
+.blog a {
+  color: #CADBFA;
+  text-decoration: underline;
+}
+.content h3 {
+  color: #828282;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.footer {
+  /* FEEL FREE TO COPY TH: */
+  text-transform: uppercase;
+  color: #B4B4B4;
+  letter-spacing: 0px;
+  text-align: center;
+}
+.footer p {
+  font-size: 10px;
+}
+.typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+::-moz-selection {
+  /* Code for Firefox */
+  color: white;
+  background: #5B87D9;
+}
+::selection {
+  color: white;
+  background: #5B87D9;
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+.highlight {
+  background: #D3DFFE;
+  color: #626262;
+}
+nav {
+  text-align: right;
+}
+nav a {
+  text-decoration: none;
+  color: #5F93DB;
+  text-transform: uppercase;
+}
+nav a:hover {
+  text-decoration: none;
+  color: #6C6C6C;
+}
+nav li {
+  display: inline-block;
+  font-size: 20px;
+}
