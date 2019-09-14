@@ -3,9 +3,7 @@
   <div id="app">
 
 <div style="background: #8515FF" class="box is-radiusless has-text-white  has-text-weight-semibold    has-text-centered is-size-4 mb-0">
-<!--   Sarabpreet Singh -->
-
-<img src="@/assets/img/sarabpreetsingh.svg" class="mb-0 mt-0 pt-0 pb-0">
+  Sarabpreet Singh
 </div>
   <nav class="navbar  has-text-centered container" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">

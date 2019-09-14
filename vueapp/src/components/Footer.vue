@@ -1,10 +1,17 @@
 <template>
- <h1>Hello What tusp</h1>
+ 
+ <section class="has-background-primary has-text-white p-5 has-text-centered ">
+   
+   <div class="is-size-4">
+     
+ Sarabpreet Singh - <span class="has-text-weight-bold">#LoveOverHate </span>
+   </div>
+ </section>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'footerx',
   props: {
     msg: String
   }
