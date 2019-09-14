@@ -1,0 +1,10 @@
+body{
+
+  font-family: 'Montserrat';
+
+}
+
+*::selection{
+background: #8515FF;
+color: white;
+}
