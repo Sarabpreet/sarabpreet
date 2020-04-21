@@ -1,10 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
+
+
 body{
 
-  font-family: 'Montserrat';
+  font-family: 'Kanit', sans-serif;
 
 }
 
 *::selection{
-background: #8515FF;
+background: #333333;
 color: white;
 }

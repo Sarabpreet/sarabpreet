@@ -10,18 +10,53 @@
 <div class="hero-body">
 
 <div class="columns is-multiline is-centered">
-    <div class="column is-4 mt-7">
-    <h1 class="is-size-2 has-text-weight-semibold">Hello There! <br>I’m Sarabpreet.
+    <div class="column is-5 mt-7">
+    <h1 class="is-size-4 has-text-weight-semi-bold">Hi There! I’m Sarabpreet👳 
     </h1>
-    <p class="is-size-5 mt-2">UX Developer, building <span class="has-text-weight-bold">‘things’</span> for the next <span class="has-text-weight-bold">Billion</span> users. </p>
+    <p class="is-size-6 mt-2 ">
+      Technologist, with bags of building scalable tech products that somehow 'work'. the term 'dev cycle' confuses me. :\ 
+
+      UX Developer, building <span class="has-text-weight-bold">‘things’</span> for the next <span class="has-text-weight-bold">Billion</span> users. </p>
+      <p>
+<div class=" mt-1 is-size-5 has-text-weight-semi-bold is-radiusless">
+  Catch me up on Social Media
+
+<div class="inline-block mt-1">
+  <!-- FACEBOOK -->
+    <a href="https://facebook.com/saarabpreet"  target="_blank">
+    <span class="icon is-link">
+  <i class="fab fa-facebook-f"></i>
+</span>
+  </a>
+    <!-- TWITTER -->
+    <a href="https://twitter.com/saarabpreet" target="_blank">
+    <span class="icon">
+  <i class="fab fa-twitter"></i>
+</span>
+  </a>
+  <!-- LINKEDIN -->
+    <a href="https://linkedin.com/sarabpreet"  target="_blank">
+    <span class="icon">
+  <i class="fab fa-linkedin"></i>
+</span>
+  </a>
+
+</div>
+</div>
+  
+
+      </p>
 
     </div>
+
+  
+
     <div class="column is-4">
 
 
         <!-- IMAGE STARTS HERE -->
       
-        <Slayed>
+        <Slayed class="headshot mt-5">
         </Slayed>
         <!-- IMAGE ENDS HERE -->
       </div>
@@ -68,7 +103,9 @@
 
  text-decoration: underline;
 }
-
+.headshot{
+  display:none;
+}
 
 </style>
 
@@ -84,3 +121,4 @@ export default {
   }
 }
 </script>
+

@@ -33,7 +33,7 @@
   -webkit-transition: 100ms linear transform;
   transition: 100ms linear transform;
   overflow: hidden;
-  border-radius: 10% 40%;
+  border-radius: 50%;
 }
 .reflection-content img{
   width: 120%;
