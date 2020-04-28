@@ -2,7 +2,7 @@
   
 <div id="app">
  
-
+<!-- 
   <nav class="navbar  has-text-centered container" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
  
@@ -18,7 +18,7 @@
 
       <div class="navbar-item" style=" margin: 0 auto; padding-top: 0px; padding-bottom: 0px;">
         <div class="buttons pt-0" style="margin-bottom: 0px;">
-          <!-- <router-link to="/" class="navbar-item">Home</router-link> -->
+          <router-link to="/" class="navbar-item">Home</router-link>
         <router-link to="/" class="navbar-item " :class="{ 'has-text-weight-semibold ':$route.name=='home'}">About</router-link>
         <router-link to="/blog" class="navbar-item " :class="{ 'has-text-weight-semibold':$route.name=='blog'}">Blog</router-link>
         <router-link to="/projects" class="navbar-item " :class="{ 'has-text-weight-semibold':$route.name=='projects'}">Projects</router-link>
@@ -27,13 +27,12 @@
 
               </div>
 
-     <!--    {{$route.name}} -->
         </div>
    
 </div>
 
 
-</nav>
+</nav> -->
 
 <!-- // HOME 
 // ABOUT
@@ -59,10 +58,15 @@
 </template>
 
 <style lang="less">
+body{
+
+  font-family: 'Ubuntu', sans-serif;
+}
     #app {
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
     }
+    
     .navbar-item-active{
 
           border-bottom: 2px #e0e0e0 solid; 

@@ -4,8 +4,8 @@ import router from './router'
 import store from './store'
 import Buefy from 'buefy'
 
-
 import './registerServiceWorker'
+
 require('buefy/dist/buefy.css')
 require('./assets/css/image.css')
 require('./assets/css/litti.css')
