@@ -1,5 +1,6 @@
 ### Hello There, I'm Sarabpreet👳 
 
+![About](assets/cover.jpg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarabpreet&label=VIEWS)
 
