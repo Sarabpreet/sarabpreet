@@ -5,8 +5,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sarabpreet&label=VIEWS)
 
 - Webmaster at [Manipal Academy of Higher Education](https://manipal.edu/)
-- Contributor [Code For Jharkhand](https://github.com/CodeForJharkhand) •  [Jharkhand Open Coffee Club](https://www.meetup.com/jharkhand-open-coffee-club/)  • [Academic Alerts](http://academicalerts.org)
-- Former Full Stack Dev at [LocalSay](https://localsay.in/) •  [Justintern](http://justintern.com)
+- Contributor [Code For Jharkhand](https://github.com/CodeForJharkhand) •  [Jharkhand Open Coffee Club](https://www.meetup.com/jharkhand-open-coffee-club/)  • [Academic Alerts](http://academicalerts.org) • Undeployed 
+- Former Full Stack Dev at [LocalSay](https://localsay.in/) •  [Justintern](http://justintern.com) • 
 - [Website](https://sarabpreet.dev/)
 - [Peerlist](https://peerlist.io/sarabpreet)
 - [Bento](https://bento.me/sarabpreet)
